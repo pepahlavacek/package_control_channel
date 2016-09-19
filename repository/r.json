@@ -403,6 +403,18 @@
 			]
 		},
 		{
+			"name": "React Component Autocomplete",
+			"details": "https://github.com/pepahlavacek/react-component-autocomplete-sublime",
+			"labels": ["autocomplete", "jsx", "cjsx", "react", "component"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": "osx",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "React Development Snippets",
 			"details": "https://github.com/jeantimex/react-sublime-snippet",
 			"labels": ["snippets", "jsx", "es6", "react", "test case", "redux", "action"],
